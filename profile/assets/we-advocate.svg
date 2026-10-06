@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-labelledby="t">
+  <title id="t">We Advocate</title>
+  <defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#11813c"/><stop offset="1" stop-color="#bef364"/></linearGradient></defs>
+  <rect width="160" height="160" rx="40" fill="url(#g)"/>
+  <svg x="36" y="36" width="88" height="88" viewBox="-12 -12 536 536" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"><path d="m120.09 246.02 75.46-124.67 188.39 188.39-260.59 157.75-85.54-85.54 46.11-76.18M123.35 467.49l-14.37 14.37c-23.62 23.62-61.92 23.62-85.54 0-23.62-23.62-23.62-61.92 0-85.54l14.37-14.37"/><path d="M212.85 413.31s1.76 19.55 5.92 33.98c6.57 22.78-4.05 46.85-26.43 54.64-22.39 7.79-46.85-4.05-54.64-26.43l-4.74-13.62M164.61 172.48l168.04 168.04M305.81 11.1l-17.45 61.51-22.33-28.57-16.63 67.53M446.8 7.68l-61.3 95.58-28.26-40.74-50.8 85.3M466.54 106.37l-82.08 37.41 29.61 24.41-71.16 36.88M506.28 166.89l-87.01 49.09 37.15 27.8-68.94 16.25"/></svg>
+</svg>
